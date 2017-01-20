@@ -1,0 +1,11 @@
+year,crop_species,seed_vendor,crop_variety,glyphosate_tolerance,fungicide_azoxystrobin,fungicide_ethaboxam,fungicide_fludioxonil,fungicide_mefenoxam,fungicide_metalaxyl,fungicide_prothioconazole,fungicide_penflufen,fungicide_thiabendazole,insecticide_clothianidin,insecticide_imidacloprid,nematicide_bacillusfirmus,BT_genes,notes
+2007,soybean,,,yes,no ,no ,no ,no ,no ,no ,no ,no ,no ,no ,no ,no,from dealer memory
+2008,corn,,,yes,yes,yes,yes,yes,no,no,no,yes,no,yes,yes,no,from dealer memory
+2009,soybean,Pioneer,93M11,yes,no ,no ,no ,no ,no ,no ,no ,no ,no ,no ,no ,no,RR = RoundUp Ready
+2010,corn,Pioneer,33M14,yes,yes,yes,yes,yes,no,no,no,yes,no,yes,yes,no,RR2 = RoundUp Ready
+2011,soybean,Pioneer,93M11,yes,no,no,no,no,yes,yes,yes ,no,no,yes,no,no,RR = RoundUp Ready
+2012,corn,Pioneer,33W80,yes,yes,yes,yes,yes,no,no,no,yes,yes,no,yes,no,
+2013,soybean,Pioneer,93M11,yes,no,no,no,no,yes,yes,yes ,no,no,yes,no,no,RR = RoundUp Ready
+2014,corn,Pioneer,PO987R,yes,no,no,no,no,no,no,no,no,no,no,no,no,
+2015,soybean,Pioneer,P25T51,yes,no,no,no,no,no,no,no,no,no,no,no,no,R = Gylphosate (RoundUp) tolerant
+2016,corn,Pioneer,PO987R,yes,no,no,no,no,no,no,no,no,no,no,no,no,R = Gylphosate (RoundUp) tolerant

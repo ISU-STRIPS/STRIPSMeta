@@ -14,3 +14,17 @@
 #'
 #' @format A data frame with 2 variables: \code{year} and \code{crop}.
 "crop_rotation"
+
+#' Crop seed info
+#' 
+#' Details about crop seed type by year.
+#' 
+#' @format A data frame with 18 variables: \code{year}, \code{crop_species},
+#'   \code{seed_vendor}, \code{crop_variety}, \code{glyphosate_tolerance},
+#'   \code{fungicide_azoxystrobin}, \code{fungicide_ethaboxam}, 
+#'   \code{fungicide_fludioxonil}, \code{fungicide_mefenoxam},
+#'   \code{fungicide_metalaxyl}, \code{fungicide_prothioconazole},
+#'   \code{fungicide_penflufen}, \code{fungicide_thiabendazole},
+#'   \code{insecticide_clothianidin}, \code{insecticide_imidacloprid},
+#'   \code{nematicide_bacillusfirmus}, \code{BT_genes}, and \code{notes}
+"crop_seed_info"
