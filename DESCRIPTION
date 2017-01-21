@@ -6,7 +6,7 @@ Authors@R: c(
     person("Lisa", "Schulte-Moore", email = "lschulte@iastate.edu", role = "aut")
     )
 Description: STRIPS meta data including watershed details, e.g. treatment,
-    size, etc., crop rotation, and crop seed details.
+    size, etc., and crop seed details.
 Depends:
     R (>= 3.0)
 License: GPL-3
