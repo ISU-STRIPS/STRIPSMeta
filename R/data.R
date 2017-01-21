@@ -8,13 +8,6 @@
 #'   \code{prairie_pct}.
 "watersheds"
 
-#' Crop rotation
-#'
-#' The type of crop in the watersheds by year.
-#'
-#' @format A data frame with 2 variables: \code{year} and \code{crop}.
-"crop_rotation"
-
 #' Crop seed info
 #' 
 #' Details about crop seed type by year.
